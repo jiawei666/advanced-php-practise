@@ -1,0 +1,13 @@
+{
+    "name": "yuanjw/advanced-php-practise",
+    "authors": [
+        {
+            "name": "jiawei666",
+            "email": "957089263@qq.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "paulxu-cn/event-ide-helper": "^0.1.0"
+    }
+}
